@@ -1,2 +1,2 @@
 # Web_Scraping
-Web scraping project. 
+Web scraping project using Selenium
